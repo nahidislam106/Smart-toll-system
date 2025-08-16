@@ -37,7 +37,7 @@ An IoT-based toll management system using ESP32, RFID, servo motor, and an LCD d
 
 ## Hardware Connections
 
-![Wiring Diagram](assets/circuit_design.png)
+![Wiring Diagram](circuit_design.png)
 _Image 2: Breadboard wiring diagram_
 
 | Module          | Pin Connections (ESP32) |
@@ -52,7 +52,7 @@ _Image 2: Breadboard wiring diagram_
 
 ## Physical Setup
 
-![Physical Model](assets/project.jpg)
+![Physical Model](project.jpg)
 _Image 3: Assembled hardware model_
 
 ---
@@ -122,10 +122,10 @@ _Edit mappings in code as needed._
 ## Screenshots
 
 ### Schematic
-![Wiring Diagram](assets/circuit_design.png)
+![Wiring Diagram](circuit_design.png)
 
 ### Physical Model
-![Physical Model](assets/project.jpg)
+![Physical Model](project.jpg)
 
 ---
 
